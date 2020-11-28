@@ -1,2 +1,3 @@
 name: well-lettered
 markdown: karmdown
+permalink: /blog/:year/:month/:day/:title
