@@ -1,3 +1,4 @@
 name: well-lettered
 markdown: karmdown
+remote_theme: rundocs/jekyll-rtd-theme
 permalink: /blog/:year/:month/:day/:title
