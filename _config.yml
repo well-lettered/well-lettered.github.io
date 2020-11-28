@@ -1,5 +1,13 @@
 name: well-lettered
 lang: en
+description: well-lettered blog
+
+## local method ##
+# theme: jekyll-rtd-theme
+# debug:
+#   compress: false
+#   dist: true
+#   shortcodes: true
 
 remote_theme: rundocs/jekyll-rtd-theme
 
