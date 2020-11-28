@@ -1,5 +1,5 @@
 @font-face{
-	font-family: "YaleNew";
+	font-family: YaleNew;
 	src:url(https://yaleidentity.yale.edu/sites/all/themes/yalenew_base/fonts/YaleNew/YaleNew-normal-normal/yalenew-roman-webfont.eot);
 	src:url(https://yaleidentity.yale.edu/sites/all/themes/yalenew_base/fonts/YaleNew/YaleNew-normal-normal/yalenew-roman-webfont.eot?#iefix) format("embedded-opentype"),
 		url(https://yaleidentity.yale.edu/sites/all/themes/yalenew_base/fonts/YaleNew/YaleNew-normal-normal/yalenew-roman-webfont.woff2) format("woff2"),
@@ -32,7 +32,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: 'YaleNew', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: YaleNew, 'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 1.5em;
