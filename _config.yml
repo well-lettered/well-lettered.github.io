@@ -1,4 +1,16 @@
 name: well-lettered
-markdown: karmdown
+lang: en
+
 remote_theme: rundocs/jekyll-rtd-theme
-permalink: /blog/:year/:month/:day/:title
+
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+plugins:
+  - jemoji
+  - jekyll-avatar
+  - jekyll-mentions
